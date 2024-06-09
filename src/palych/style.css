@@ -1,0 +1,16 @@
+.palech {
+  img {
+    max-width: 300px;
+    max-height: 300px;
+    transition: transform 0.1s;
+  }
+}
+
+.palech img:active {
+  transform: scale(0.96); /* Уменьшает круг при нажатии */
+}
+
+.count {
+  margin-bottom: 32px;
+  font-size: 30px;
+}
