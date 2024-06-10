@@ -10,7 +10,7 @@ export function Palych() {
   };
 
   return (
-    <div>
+    <div className={'palych-wrapper'}>
       <div className={'count'}>{count} $palech</div>
       <div className={'palech'}>
         <img

@@ -1,12 +1,11 @@
-import './App.css';
-import { Palych} from './palych';
+import { Palych } from './palych';
+import { Panel } from './panel';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <Palych />
-      </header>
+    <div>
+      <Palych />
+      <Panel />
     </div>
   );
 }
