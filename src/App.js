@@ -1,13 +1,5 @@
-import { Palych } from './palych';
-import { Panel } from './panel';
-
-function App() {
+export function App() {
   return (
-    <div>
-      <Palych />
-      <Panel />
-    </div>
+    <div>App</div>
   );
 }
-
-export default App;
