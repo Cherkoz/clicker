@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/clicker/static/css/main.89663709.css",
-    "main.js": "/clicker/static/js/main.c3e1f0b5.js",
+    "main.js": "/clicker/static/js/main.4ec23bb8.js",
     "index.html": "/clicker/index.html",
     "main.89663709.css.map": "/clicker/static/css/main.89663709.css.map",
-    "main.c3e1f0b5.js.map": "/clicker/static/js/main.c3e1f0b5.js.map"
+    "main.4ec23bb8.js.map": "/clicker/static/js/main.4ec23bb8.js.map"
   },
   "entrypoints": [
     "static/css/main.89663709.css",
-    "static/js/main.c3e1f0b5.js"
+    "static/js/main.4ec23bb8.js"
   ]
 }
